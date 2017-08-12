@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "securtiy AREA"
+AuthUserfile "../htdocs/finel/.htpasswd"
+Require valid-user
