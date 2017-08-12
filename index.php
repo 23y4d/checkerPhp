@@ -16,10 +16,11 @@
 <div class="col-lg-8 col-lg-offset-2">
 <pre class='pr'>
 <?php
-echo "============================
+echo "================================
 [+] Product Name =>  visa cards checker
-[+] Coding By    =>   shad0w
-[*] ";
+[+] Coding By    =>   shad0w 
+[*] THIS CODE FOR MY BEST FRIEND BEESH
+    =================================";
 ?>
 </pre>
 <div id="timeval"></div>
